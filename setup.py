@@ -1,6 +1,6 @@
 from setuptools import setup
 
-PACKAGE_NAME = "TODO_put_package_name_here"
+PACKAGE_NAME = "ocean_iops"
 
 setup(
     # The package metadata is specified in setup.cfg but GitHub's downstream dependency graph

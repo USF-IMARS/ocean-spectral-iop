@@ -10,7 +10,7 @@ try:
 except ImportError:
     __version__ = "unknown"
 
-__title__ = "todo_packagename_here"
+__title__ = "ocean_iops"
 # __author__ = ""
 __license__ = "MIT"
 
